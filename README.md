@@ -2,7 +2,8 @@
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 
-<img width="919" alt="image" src="https://github.com/Sanchariii/Sanchari-Portfolio-Website/assets/88083502/691968d5-5da2-43ec-8495-c7bc73ae16ea">
+
+![pika-1708865429011-1x](https://github.com/Sanchariii/Sanchari-Portfolio-Website/assets/88083502/f1bec35e-3f53-4b9e-9e1b-28e963fb7c22)
 
 
 :star: Star me on GitHub — it helps!
