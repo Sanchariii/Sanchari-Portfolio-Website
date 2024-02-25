@@ -4,7 +4,6 @@
 
 <img width="919" alt="image" src="https://github.com/Sanchariii/Sanchari-Portfolio-Website/assets/88083502/691968d5-5da2-43ec-8495-c7bc73ae16ea">
 
-">
 
 :star: Star me on GitHub — it helps!
 
